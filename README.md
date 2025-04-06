@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vinos21/Training/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Vinos21/Training/tree/master/0048-rotate-image) |
 | [0368-largest-divisible-subset](https://github.com/Vinos21/Training/tree/master/0368-largest-divisible-subset) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vinos21/Training/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Vinos21/Training/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Vinos21/Training/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Vinos21/Training/tree/master/0048-rotate-image) |
 | [0368-largest-divisible-subset](https://github.com/Vinos21/Training/tree/master/0368-largest-divisible-subset) |
 ## Dynamic Programming
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Vinos21/Training/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Vinos21/Training/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
