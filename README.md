@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vinos21/Training/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vinos21/Training/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/Vinos21/Training/tree/master/0368-largest-divisible-subset) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vinos21/Training/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vinos21/Training/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Vinos21/Training/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Vinos21/Training/tree/master/0368-largest-divisible-subset) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vinos21/Training/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Vinos21/Training/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Vinos21/Training/tree/master/0067-add-binary) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vinos21/Training/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
