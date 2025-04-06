@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vinos21/Training/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Vinos21/Training/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Vinos21/Training/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/Vinos21/Training/tree/master/0368-largest-divisible-subset) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Vinos21/Training/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Vinos21/Training/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Vinos21/Training/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Vinos21/Training/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vinos21/Training/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Vinos21/Training/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Vinos21/Training/tree/master/0368-largest-divisible-subset) |
